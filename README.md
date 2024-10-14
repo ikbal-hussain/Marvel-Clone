@@ -25,7 +25,7 @@ Frontend: https://www.netlify.com
 
 ## Deplolyed App
 
-Frontend: https://www.marvel-clone.netlify.com
+Frontend: [https://www.marvel-clone.netlify.com](https://marvel-clone.netlify.app/)
 
 ## Directory Structure
 
@@ -54,10 +54,6 @@ Frontend: https://www.marvel-clone.netlify.com
 A very short video walkthough of all of the features:
 https://www.youtube.com/watch?v=eUm5M1ga6Ho
 
-
-## Video Walkthrough of the codebase
-
-A very short video walkthough of codebase [ 1 - 5 minutes ]:
 
 ## Features
 List out the key features of your application.
