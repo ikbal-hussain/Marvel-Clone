@@ -1,8 +1,8 @@
-# Indus-Iteration-006
+# Marvel Clone and Viatour page
 
 ## Introduction
 
-This is a collaborative project done during a span of five days from 7 May 2024 to 11 May 2024. This project serves as a showcase of the skills we've acquired through past learning experiences.This Project has two sections
+This is a collaborative project done during a span of five days from 7 May 2024 to 11 May 2024. This project serves as a showcase of the skills we've acquired through past learning experiences. This Project has two sections
 1. Cloning Marvel Website 
 2. Redering a Figma Design
 
@@ -22,6 +22,10 @@ Frontend
 ## Deplolyed App
 
 Frontend: https://www.netlify.com
+
+## Deplolyed App
+
+Frontend: https://www.marvel-clone.netlify.com
 
 ## Directory Structure
 
@@ -47,13 +51,13 @@ Frontend: https://www.netlify.com
 
 ## Video Walkthrough of the project
 
-a very short video walkthough of all of the features:
+A very short video walkthough of all of the features:
 https://www.youtube.com/watch?v=eUm5M1ga6Ho
 
 
 ## Video Walkthrough of the codebase
 
-a very short video walkthough of codebase [ 1 - 5 minutes ]:
+A very short video walkthough of codebase [ 1 - 5 minutes ]:
 
 ## Features
 List out the key features of your application.
